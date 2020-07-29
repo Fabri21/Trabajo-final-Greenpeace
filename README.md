@@ -9,7 +9,6 @@ Este es mi trabajo final sobre la ONG Greenpeace , que busca mejorar la flora y 
 * [CSS] - Para modificar la página y estilizarla
 * [Bootstrap] - Darle forma a la página
 * [node.js] - evented I/O for the backend
-* [Gulp] - the streaming build system
 * [jQuery] - Para que se pueda interactuar en el sitio web
 
 
@@ -19,6 +18,15 @@ Para poder acceder a la pagina web se tiene que:
 - Abrir Filezilla con conexión
 - LLevar la carpeta de mi proyecto a Filezilla
 - Ir a la URL
+
+
+### Todos
+
+ - Ajustar las imágenes de mejor manera
+ - Cambiar el color de algunos botones 
+- Textos más originales
+
+
 
 ### License
 
